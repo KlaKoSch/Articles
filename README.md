@@ -7,7 +7,7 @@ The primary topics are generally microcontrollers or Forth.
 
 ***
 
-2026/10-Forth-Systeme unter Claude entwickeln
+2026-10-Forth-Systeme unter Claude entwickeln
 ---
 Ein Artikel, der für die Vierte Dimension 2026/4 geschrieben wurde.
 Es beschreibt die ersten Erfahrungen mit Claude bei der Erstellung eines einfachen Forth Simulator. 
